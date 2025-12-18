@@ -7,11 +7,11 @@ public class menuScript : MonoBehaviour {
 	public void triggerMenu(int trigger) {
 		switch (trigger) {
 		case(0) :
-			SceneManager.LoadScene("MemoryGame");
+			SceneManager.LoadScene("PuzzleGame");
 			break;
 		case(1) :
-			Application.Quit();
-			break;
+                SceneManager.LoadScene("NewGameSelect");
+                break;
 		}
 	}
 }
