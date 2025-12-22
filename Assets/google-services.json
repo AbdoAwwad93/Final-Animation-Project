@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "486742784744",
+    "project_id": "unityproject-b4baa",
+    "storage_bucket": "unityproject-b4baa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486742784744:android:3fc2d950f813220fb8a75d",
+        "android_client_info": {
+          "package_name": "com.animation.Project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALnlYe3DgxicAQ5OjR7FbuyTyoMFiexok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -7,7 +7,7 @@ public class menuScript : MonoBehaviour {
 	public void triggerMenu(int trigger) {
 		switch (trigger) {
 		case(0) :
-			SceneManager.LoadScene("PuzzleGame");
+			SceneManager.LoadScene("MemoryGame");
 			break;
 		case(1) :
                 SceneManager.LoadScene("NewGameSelect");

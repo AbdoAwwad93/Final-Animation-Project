@@ -6,22 +6,28 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/AuthScene.unity
+    guid: 584e7a0ba8840644f8f34b6fc2a7820e
+  - enabled: 1
+    path: Assets/Scenes/NewCharselection.unity
+    guid: 1f979dfc414fc9d4abdba7b9c5f4e818
+  - enabled: 1
+    path: Assets/Scenes/NewGameSelect.unity
+    guid: 1fe29cbe5fd13694c972c0d981abc08f
+  - enabled: 1
     path: Assets/Scenes/MemorymenuScene.unity
     guid: 5b3a2a0ca08a3af40bd2dcd470cfc84d
   - enabled: 1
     path: Assets/Scenes/MemoryGame.unity
     guid: 96979f1cb5b204b4fa46825ec6b427ab
   - enabled: 1
-    path: Assets/Scenes/CharacterSelection.unity
-    guid: d4977367506ee894f87e2a1d117963bc
+    path: Assets/Scenes/ColorMatchingGame.unity
+    guid: c2b6d94eb34f255499fb2b30c8303a44
   - enabled: 1
-    path: Assets/Scenes/GameSelectionScene.unity
-    guid: fbcef6408d1d0324486043167079f764
+    path: Assets/Scenes/PuzzleStage-36Pieces.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
-    path: Assets/Scenes/PuzzleGame.unity
-    guid: e2f991a5fffb4af47b659b2de1ea9a02
-  - enabled: 1
-    path: Assets/Scenes/SpecialGame.unity
-    guid: 5ff7fe14418bcee49992b472eba38bb7
+    path: Assets/Scenes/MainMenu.unity
+    guid: d33b528886ed04e4caa7513bd289a632
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
